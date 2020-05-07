@@ -1,4 +1,4 @@
-package main.java.testRunner;
+package testRunner;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.CucumberFeatureWrapper;
